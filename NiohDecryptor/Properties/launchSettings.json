@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NiohDecryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "--nioh2 -i test.bin"
+    }
+  }
+}

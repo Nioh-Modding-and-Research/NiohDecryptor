@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiohDecryptor", "NiohDecryptor\NiohDecryptor.csproj", "{D1BC0FFE-29A7-4680-A3F7-DB06287E3DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BC0FFE-29A7-4680-A3F7-DB06287E3DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BC0FFE-29A7-4680-A3F7-DB06287E3DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BC0FFE-29A7-4680-A3F7-DB06287E3DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BC0FFE-29A7-4680-A3F7-DB06287E3DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53511062-A612-4092-9180-D7A19AA0623C}
+	EndGlobalSection
+EndGlobal
